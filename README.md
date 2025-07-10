@@ -6,7 +6,11 @@
 
 <!-- Dark fantasy banner -->
 
-![tenor](https://github.com/user-attachments/assets/d7cb87f0-ed64-4a95-8164-28bb20ff8192)
+<p align="center">
+  ![tenor](https://github.com/user-attachments/assets/d7cb87f0-ed64-4a95-8164-28bb20ff8192)
+</p>
+
+
 
 ---
 
