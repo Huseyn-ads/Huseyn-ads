@@ -1,19 +1,20 @@
-<h1 align="center">🌑 𝕳𝖚𝖘𝖊𝖞𝖓's Dark Realm 🌒</h1>
+<h1 align="center">🌑 𝕳𝖚𝖘𝖊𝖞𝖓’s Dark Realm 🌒</h1>
 
-<p align="center"><i>“I don't just write code — I craft spells in the language of the web.”</i></p>
+<p align="center">
+  <i>“I craft code like ancient spells, weaving magic in the shadows.”</i>
+</p>
 
----
+<!-- Dark fantasy banner -->
+<p align="center">
+  <img src="https://i.imgur.com/uXbD6KJ.gif" alt="Dark fantasy banner" width="100%" />
+</p>
 
 ---
 
 ### 🧙‍♂️ About Me
 
-Hello! My name is **Huseyn**, I'm 15 years old and live in **Azerbaijan**.  
-I'm a passionate **Front-End Developer** who is deeply inspired by the world of **dark fantasy** and mystical aesthetics.
-
-I enjoy transforming complex ideas into elegant web experiences, combining creativity and logic like an alchemist of code.
-
-> *Design like a wizard, code like a warrior.*
+Hello! I'm **Huseyn**, a 15-year-old Front-End Developer from Azerbaijan, inspired by the worlds of dark fantasy and magic.  
+I blend creativity and logic to craft immersive web experiences that echo ancient tales and mystical realms.
 
 ---
 
@@ -41,16 +42,18 @@ I enjoy transforming complex ideas into elegant web experiences, combining creat
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hsnn&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huseynshikhmammadli&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📬 Contact Me
 
-- 🕯️ Telegram: [@huseynshixmemmedli](https://t.me/huseynshixmemmedli)  
-- 🦇 Email: huseynshixmemmedli@gmail.com  
+- 🕯️ Telegram: [@huseynshikhmammadli](https://t.me/huseynshikhmammadli)  
+- 🦇 Email: huseynshikhmammadli@gmail.com  
 
 ---
 
-<p align="center"><i>“Let the shadows guide you — and may your code be bug-free.”</i></p>
+<p align="center">
+  <i>“May your code be as flawless as a sorcerer’s spell.”</i>
+</p>
