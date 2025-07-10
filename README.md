@@ -7,7 +7,8 @@
 <!-- Dark fantasy banner -->
 
 
-  <img src="https://media.tenor.com/evpB8JYbZ4eAAAAC/berserk-skull-knight.gif" alt="GIF" />
+![GIF](https://media.tenor.com/evpB8JYbZ4eAAAAC/berserk-skull-knight.gif)
+
 
 
 ---
