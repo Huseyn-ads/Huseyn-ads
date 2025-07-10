@@ -29,27 +29,22 @@ I blend creativity and logic to craft immersive web experiences that echo ancien
 
 ### 🧰 Tools & Powers
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=white&labelColor=111827&color=1F2937&logoWidth=40&height=40" alt="HTML" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=white&labelColor=111827&color=1F2937&logoWidth=40&height=40" alt="CSS" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TailwindCSS-black?style=flat&logo=tailwindcss&logoColor=white&labelColor=111827&color=1F2937&logoWidth=40&height=40" alt="TailwindCSS" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&labelColor=111827&color=1F2937&logoWidth=40&height=40" alt="React" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white&labelColor=111827&color=1F2937&logoWidth=40&height=40" alt="Figma" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/After_Effects-black?style=flat&logo=adobe-after-effects&logoColor=white&labelColor=111827&color=1F2937&logoWidth=40&height=40" alt="After Effects" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Final_Cut_Pro-black?style=flat&logo=apple&logoColor=white&labelColor=111827&color=1F2937&logoWidth=40&height=40" alt="Final Cut Pro" />
-</p>
+### 🧰 Tools & Powers
+
+<img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=white&labelColor=111827&color=1F2937&logoWidth=30" alt="HTML" />
+<br/>
+<img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=white&labelColor=111827&color=1F2937&logoWidth=30" alt="CSS" />
+<br/>
+<img src="https://img.shields.io/badge/TailwindCSS-black?style=flat&logo=tailwindcss&logoColor=white&labelColor=111827&color=1F2937&logoWidth=30" alt="TailwindCSS" />
+<br/>
+<img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&labelColor=111827&color=1F2937&logoWidth=30" alt="React" />
+<br/>
+<img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white&labelColor=111827&color=1F2937&logoWidth=30" alt="Figma" />
+<br/>
+<img src="https://img.shields.io/badge/After_Effects-black?style=flat&logo=adobe-after-effects&logoColor=white&labelColor=111827&color=1F2937&logoWidth=30" alt="After Effects" />
+<br/>
+<img src="https://img.shields.io/badge/Final_Cut_Pro-black?style=flat&logo=apple&logoColor=white&labelColor=111827&color=1F2937&logoWidth=30" alt="Final Cut Pro" />
+
 
 ---
 
