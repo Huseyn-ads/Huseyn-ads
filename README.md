@@ -5,11 +5,8 @@
 </p>
 
 <!-- Dark fantasy banner -->
-<p align="center">
-  ![art | aesthetics | design](https://github.com/user-attachments/assets/ec88ef88-ec24-4ccd-a4fd-b1776c314b73)
-</p> 
 
-
+<div class="tenor-gif-embed" data-postid="3644849906941075352" data-share-method="host" data-aspect-ratio="2.075" data-width="100%"><a href="https://tenor.com/view/real-is-real-which-is-real-gif-3644849906941075352">Real Is Real Which Is Real GIF</a>from <a href="https://tenor.com/search/real+is+real+which+is+real-gifs">Real Is Real Which Is Real GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
