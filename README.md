@@ -41,8 +41,7 @@ I enjoy transforming complex ideas into elegant web experiences, combining creat
 ### 📈 GitHub Stats
 
 <p align="center">
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hsnn&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hsnn&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
