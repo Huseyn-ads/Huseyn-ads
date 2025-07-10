@@ -4,8 +4,6 @@
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFjZmQ5dDIxYWp6bnA4NWtzZWY2ZXRxMXhpeHVmYWt3dTUxYms5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="100%" alt="dark fantasy banner" />
-
 ---
 
 ### 🧙‍♂️ About Me
