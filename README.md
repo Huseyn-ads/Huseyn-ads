@@ -6,9 +6,9 @@
 
 <!-- Dark fantasy banner -->
 <p align="center">
-  <img src="![art | aesthetics | design](https://github.com/user-attachments/assets/5b4fb829-20b4-4fb2-b860-029bd55edd56)">
 </p> 
 
+![art | aesthetics | design](https://github.com/user-attachments/assets/ec88ef88-ec24-4ccd-a4fd-b1776c314b73)
 
 ---
 
