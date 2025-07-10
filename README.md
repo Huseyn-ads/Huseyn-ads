@@ -6,10 +6,7 @@
 
 <!-- Dark fantasy banner -->
 
-
-![GIF](https://media.tenor.com/evpB8JYbZ4eAAAAC/berserk-skull-knight.gif)
-
-
+![tenor](https://github.com/user-attachments/assets/d7cb87f0-ed64-4a95-8164-28bb20ff8192)
 
 ---
 
