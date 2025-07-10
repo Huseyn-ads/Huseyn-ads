@@ -6,9 +6,9 @@
 
 <!-- Dark fantasy banner -->
 
-<p align="center">
+
   <img src="https://media.tenor.com/evpB8JYbZ4eAAAAC/berserk-skull-knight.gif" alt="GIF" />
-</p>
+
 
 ---
 
