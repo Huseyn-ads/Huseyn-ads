@@ -29,7 +29,6 @@ I blend creativity and logic to craft immersive web experiences that echo ancien
 
 ### 🧰 Tools & Powers
 
-### 🧰 Tools & Powers
 
 <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=white&labelColor=111827&color=1F2937&logoWidth=30" alt="HTML" />
 <br/>
